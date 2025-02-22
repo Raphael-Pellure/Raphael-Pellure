@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Raphaël Pellure  
 
-<!--
-**Raphael-Pellure/Raphael-Pellure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M1 student @ ENSEEIHT** (Toulouse, France)  
+BLABLABLABLABLABLBALAB
+BBLABALBALBALBALAB
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rapha%C3%ABl-pellure/)  
+
+## 💻 Tech Stack  
+- 🔧 **Languages**: Python, C/C++, VHDL, MATLAB  
+- 🧠 **AI & ML**: TensorFlow, PyTorch, Scikit-learn  
+- ⚡ **Embedded Systems**: FPGA, Microcontrollers, Real-time C  
+
+## 🚀 Projects  
+- 🏆 **Text Search Engine** – Implemented TF-IDF & Latent Semantic Analysis  
+- ❤️ **Connected Heart Rate Monitor** – Analog sensing + Signal Processing  
+- 🎮 **Snake Game** – Built in C
+
+## 📫 Let's connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rapha%C3%ABl-pellure/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/YourGitHubUsername)  
+
