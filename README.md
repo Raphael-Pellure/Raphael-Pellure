@@ -7,11 +7,11 @@
 
 <ul>
   <li>👨‍💻 I’m into coding, problem-solving, and learning new stuff. I enjoy diving into challenges and figuring things out along the way.</li>
-  <li>👨‍💻 I just wrapped up DERNIER PROJET ICI 
-    <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier">.....</a>. It uses ....... We did this as part of our second year at <strong>ENSAE Paris</strong>.
+  <li>🚀 I just finished working on [Dernier Projet ici]
+    <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier">.....</a>! It uses [technologies utilisées], and I tackled this project during my second year at <strong>ENSEEIHT Toulouse</strong>.
   </li>
-  <li>📫 Feel free to drop me a message at <a href="mailto:raphael.pellure@etu.inp-n7.fr">raphael.pellure@etu.inp-n7.fr</a> or find me on 
-    <a href="https://www.linkedin.com/in/raphaël-pellure">LinkedIn</a>. Got ideas or just want to say hi? Let’s chat! 🎉
+  <li>📫 Feel free to reach out to me at <a href="mailto:raphael.pellure@etu.inp-n7.fr">raphael.pellure@etu.inp-n7.fr</a> or find me on 
+    <a href="https://www.linkedin.com/in/raphaël-pellure">LinkedIn</a>.
   </li>
 </ul>
 
@@ -28,18 +28,14 @@
   
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Logo" width="40" height="40"></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <a href="https://fr.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premiere pro" width="40" height="40"/>
+  <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/fr/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premiere pro" width="40" height="40"/></a>
 </p>
 
 
