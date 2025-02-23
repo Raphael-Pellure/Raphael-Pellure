@@ -55,7 +55,7 @@
 
 <div style="margin-bottom: 40px;">
   <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier">
-    <img src="TNS.png" alt="Connected cardiac sensor" width="400"/></a>
+    <img src="social_previews/social_preview_TNS.png" alt="Connected cardiac sensor" width="400"/></a>
   <ul>
       <li><strong>What it's about:</strong> Analyzing PPG signals to monitor heart health, using spectral analysis, filtering, and statistical tests to detect conditions like arrhythmia, tachycardia, and bradycardia.
       <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier" target="_blank">Take a look!</a></li>
@@ -67,7 +67,7 @@
 
 <div style="margin-bottom: 40px;">
   <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier">
-    <img src="TNS.png" alt="Connected cardiac sensor" width="400"/></a>
+    <img src="social_previews/social_preview_TNS.png" alt="Connected cardiac sensor" width="400"/></a>
   <ul>
       <li><strong>What it's about:</strong> Analyzing PPG signals to monitor heart health, using spectral analysis, filtering, and statistical tests to detect conditions like arrhythmia, tachycardia, and bradycardia.
       <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier" target="_blank">Take a look!</a></li>
