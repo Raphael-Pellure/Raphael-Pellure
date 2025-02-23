@@ -3,7 +3,7 @@
 <h1 align="left">👋 Hi, I'm Raphaël</h1>
 
 <!-- SUBTITLE -->
-<h3 align="center">BLABLABLA</h3>
+<h3 align="center">A curious student developer excited to explore new ideas and innovative projects</h3>
 
 <ul>
   <li>👨‍💻 I’m into coding, problem-solving, and learning new stuff. I enjoy diving into challenges and figuring things out along the way.</li>
