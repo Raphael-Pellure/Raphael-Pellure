@@ -41,7 +41,7 @@
 
 <!-- GITHUB STATS -->
 <p>
-  <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=Raphael-Pellure&theme=dark" alt="Raphael-Pellure" />
+  <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=Raphael-Pellure&theme=dark" alt="Raphael-Pellure" width="400"/>
 </p>
 <br clear="both" />
 
