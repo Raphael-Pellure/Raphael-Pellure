@@ -6,9 +6,9 @@
 <h3 align="center">A curious student developer excited to explore new ideas and innovative projects</h3>
 
 <ul>
-  <li>👨‍💻 I’m into coding, problem-solving, and learning new stuff. I enjoy diving into challenges and figuring things out along the way.</li>
+  <li>👨‍💻 I have a passion for coding, tackling complex problems, and continuously expanding my knowledge. I thrive on challenges and enjoy finding creative solutions..</li>
   <li>🚀 I just finished working on [Dernier Projet ici]
-    <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier">.....</a>! It uses [technologies utilisées], and I tackled this project during my second year at <strong>ENSEEIHT Toulouse</strong>.
+    <a href="https://github.com/Raphael-Pellure/MAT-Heart-Helth-Monitoring">.....</a>! It uses [technologies utilisées], and I tackled this project during my second year at <strong>ENSEEIHT Toulouse</strong>.
   </li>
   <li>📫 Feel free to reach out to me at <a href="mailto:raphael.pellure@etu.inp-n7.fr">raphael.pellure@etu.inp-n7.fr</a> or find me on 
     <a href="https://www.linkedin.com/in/raphaël-pellure">LinkedIn</a>.
