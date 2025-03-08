@@ -7,8 +7,8 @@
 
 <ul>
   <li>👨‍💻 I have a passion for coding, tackling complex problems, and continuously expanding my knowledge. I thrive on challenges and enjoy finding creative solutions..</li>
-  <li>🚀 I just finished working on [Dernier Projet ici]
-    <a href="https://github.com/Raphael-Pellure/MAT-Heart-Helth-Monitoring">.....</a>! It uses [technologies utilisées], and I tackled this project during my second year at <strong>ENSEEIHT Toulouse</strong>.
+  <li>🚀 I just finished working on
+    <a href="https://github.com/Raphael-Pellure/C-Image-Segmentation">Image Segmentation</a>! It uses Kmeans and Meanshift algorithm implemented in C, I tackled this project during my second year at <strong>ENSEEIHT Toulouse</strong>.
   </li>
   <li>📫 Feel free to reach out to me at <a href="mailto:raphael.pellure@etu.inp-n7.fr">raphael.pellure@etu.inp-n7.fr</a> or find me on 
     <a href="https://www.linkedin.com/in/raphaël-pellure">LinkedIn</a>.
@@ -55,15 +55,16 @@
 
 <p>Here are some projects I’ve worked on. Check them out!</p>
 
+
 </br>
 
 <div style="margin-bottom: 40px;">
-  <a href="https://github.com/Raphael-Pellure/MAT-Heart-Helth-Monitoring">
-    <img src="social_previews/social_preview_TNS.png" alt="Connected cardiac sensor" width="400"/></a>
+  <a href="https://github.com/Raphael-Pellure/C-Image-Segmentation">
+    <img src="social_previews/social_preview_segmentation.png" alt="Connected cardiac sensor" width="400"/></a>
   <ul>
-      <li><strong>What it's about:</strong> Analyzing PPG signals to monitor heart health, using spectral analysis, filtering, and statistical tests to detect conditions like arrhythmia, tachycardia, and bradycardia.
-      <a href="https://github.com/Raphael-Pellure/MAT-Heart-Helth-Monitoring" target="_blank">Take a look!</a></li>
-      <li><strong>Tech stack:</strong> Matlab, Data Preprocessing, Filtering, Statistical Analysis</li>
+      <li><strong>What it's about:</strong> Segmentation of images using K-means and Mean-Shift algorithms. The primary goal is to partition images into distinct segments and evaluate the accuracy of these segmentations against reference images. The project involves implementing these algorithms, comparing their performance, and visualizing the segmented images to understand their effectiveness in texture analysis.
+      <a href="https://github.com/Raphael-Pellure/C-Image-Segmentation" target="_blank">Take a look!</a></li>
+      <li><strong>Tech stack:</strong> C, Kmeans, Meanshift, OpenCV</li>
   </ul>
 </div>
 
@@ -78,6 +79,7 @@
       <li><strong>Tech stack:</strong> Matlab, Data Preprocessing, Filtering, Statistical Analysis</li>
   </ul>
 </div>
+
 
 </br>
 
