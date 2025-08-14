@@ -6,12 +6,9 @@
 <h3 align="center">A curious student developer excited to explore new ideas and innovative projects</h3>
 
 <ul>
-  <li>👨‍💻 I have a passion for coding, tackling complex problems, and continuously expanding my knowledge. I thrive on challenges and enjoy finding creative solutions..</li>
-  <li>🚀 I just finished working on
-    <a href="https://github.com/Raphael-Pellure/C-Image-Segmentation">Image Segmentation</a>! It uses Kmeans and Meanshift algorithm implemented in C, I tackled this project during my second year at <strong>ENSEEIHT Toulouse</strong>.
-  </li>
-  <li>📫 Feel free to reach out to me at <a href="mailto:raphael.pellure@etu.inp-n7.fr">raphael.pellure@etu.inp-n7.fr</a> or find me on 
-    <a href="https://www.linkedin.com/in/raphaël-pellure">LinkedIn</a>.
+  <li> I have a passion for coding, tackling complex problems, and continuously expanding my knowledge. I thrive on challenges and enjoy finding creative solutions..</li>
+  <li> I just finished working on Image Segmentation
+    <a href="https://github.com/Raphael-Pellure/C-Image-Segmentation"> Take a look !</a>
   </li>
 </ul>
 
